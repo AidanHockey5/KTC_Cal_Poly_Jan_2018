@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.7381736, g: 0.5823739, b: 0.48457205, a: 1}
+  m_IndirectSpecularColor: {r: 0.669696, g: 0.6527296, b: 0.5712173, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -572,7 +572,7 @@ MonoBehaviour:
   radialBlurIterations: 2
   sunColor: {r: 1, g: 0.88803244, b: 0.64705884, a: 1}
   sunThreshold: {r: 0.87, g: 0.74, b: 0.65, a: 1}
-  sunShaftBlurRadius: 2.5
+  sunShaftBlurRadius: 1.57
   sunShaftIntensity: 1.15
   maxRadius: 0.84000003
   useDepthTexture: 1
